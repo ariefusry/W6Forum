@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public interface Aquatic {
+    public abstract void swim();
+    public abstract void dive();
 }

@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
+public class Ostrich extends Birds {
+    public Ostrich(String nama) {
+        super(nama);
+    }
 
-public class Ostrich {
+    public void infoOstrich(){
+        System.out.println(nama+" adalah burung besar dan bertelur");
+    }
 }

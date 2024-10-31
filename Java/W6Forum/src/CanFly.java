@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public interface CanFly {
+    public abstract void fly();
 }
