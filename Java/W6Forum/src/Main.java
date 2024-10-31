@@ -12,33 +12,33 @@ public class Main {
         Ostrich o = new Ostrich("Ostrich");
         Penguin p = new Penguin("Penguin");
 
-        //whale
+        // whale
         w.infoWhale();
         w.swim();
         w.dive();
         System.out.println(" ");
 
-        //bat
+        // bat
         b.infoBat();
         b.fly();
         System.out.println(" ");
 
-        //tiger
+        // tiger
         t.infoTiger();
         t.eatMeat();
         System.out.println(" ");
 
-        //eagle
+        // eagle
         e.infoEagle();
         e.eatMeat();
         e.fly();
         System.out.println(" ");
 
-        //ostrich
+        // ostrich
         o.infoOstrich();
         System.out.println(" ");
 
-        //penguin
+        // penguin
         p.infoPenguin();
         p.eatMeat();
         p.swim();
