@@ -43,6 +43,7 @@ public class Main {
         p.eatMeat();
         p.swim();
         p.dive();
+        System.out.println(" ");
 
     }
 }
